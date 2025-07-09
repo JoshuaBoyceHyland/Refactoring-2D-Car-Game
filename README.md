@@ -1,6 +1,6 @@
 # Refactored 2D Car Game
 A Group project tasked with refactoring code and creating new tested features
-( Reuploaded as original Repo was deleted by lecturer after semesters Finish, links no longer lead anywher )
+( Reuploaded as original Repo was deleted by lecturer after semesters Finish, links no longer lead anywhere, left to show what work we did )
 
 # GamePlay
 
