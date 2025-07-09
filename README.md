@@ -1,5 +1,6 @@
-# semester-1-team-game-project-micromachines
-semester-1-team-game-project-micromachines created by GitHub Classroom
+# Refactored 2D Car Game
+A Group project tasked with refactoring code and creating new tested features
+( Reuploaded as original Repo was deleted by lecturer after semesters Finish, links no longer lead anywher )
 
 # GamePlay
 
