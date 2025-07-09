@@ -1,0 +1,4 @@
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\Debug\16_SFML_Games.vcxproj.CopyComplete
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\Debug\16_SFML_Games.exe
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\Debug\gtest.pdb
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\Debug\gtest_main.pdb

@@ -1,0 +1,866 @@
+﻿  16_SFML_Games.cpp
+  arkanoid.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\arkanoid.cpp(7,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\arkanoid.cpp(28,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\arkanoid.cpp(28,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\arkanoid.cpp(60,74): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  asteroids.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(29,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(29,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(37,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(66,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(66,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(68,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(95,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(96,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(147,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(148,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(150,1): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(151,1): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(179,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(199,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(200,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(201,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(212,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(233,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(233,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(254,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(254,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(263,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(263,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(263,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(275,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(275,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(296,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  bejeweled.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\bejeweled.cpp(25,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\bejeweled.cpp(154,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\bejeweled.cpp(154,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\bejeweled.cpp(155,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\bejeweled.cpp(155,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Car.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(67,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(68,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(69,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\Car.cpp(29,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\Car.cpp(30,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  carController.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(67,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(68,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(69,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(87,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(91,26): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(139,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(139,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(146,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(147,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(148,34): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(149,34): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(151,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(152,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(174,26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  chess.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\Connector.hpp(42,71): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\Connector.hpp(55,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(34,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(34,21): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(66,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(66,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(79,19): warning C4114: same type qualifier used more than once
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(119,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(119,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(131,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(131,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(132,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(132,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  doodle_jump.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\doodle_jump.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\doodle_jump.cpp(45,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\doodle_jump.cpp(46,8): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\doodle_jump.cpp(53,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\doodle_jump.cpp(61,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\doodle_jump.cpp(61,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\doodle_jump.cpp(67,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\doodle_jump.cpp(67,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  fifteen_puzzle.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\fifteen_puzzle.cpp(56,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\fifteen_puzzle.cpp(56,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\fifteen_puzzle.cpp(59,42): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\fifteen_puzzle.cpp(73,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\fifteen_puzzle.cpp(73,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Laps.cpp
+  lap_logic.cpp
+  LeaderBoard.cpp
+  mahjong.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\mahjong.cpp(28,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\mahjong.cpp(38,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\mahjong.cpp(38,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\mahjong.cpp(64,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\mahjong.cpp(90,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\mahjong.cpp(101,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\mahjong.cpp(102,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  minesweeper.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\minesweeper.cpp(7,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\minesweeper.cpp(67,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\minesweeper.cpp(67,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  netwalk.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\netwalk.cpp(89,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\netwalk.cpp(163,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\netwalk.cpp(167,64): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\netwalk.cpp(171,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\netwalk.cpp(171,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\netwalk.cpp(177,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\netwalk.cpp(177,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  outrun.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(8,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(14,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(14,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(15,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(15,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(16,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(16,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(17,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(17,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(57,37): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(91,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(94,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(98,48): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(99,48): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(100,48): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(102,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(107,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(123,60): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(124,59): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(138,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(149,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(153,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(155,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(163,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(163,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(164,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(164,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(164,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(164,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(164,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(164,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(165,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(165,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(165,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(165,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(165,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(165,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  PowerUps_Stain.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(67,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(68,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(69,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\PowerUps_Stain.cpp(139,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\PowerUps_Stain.cpp(148,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PowerUps_Nitro.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(67,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(68,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(69,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  racing.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(67,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(68,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(69,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(49,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(50,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(51,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(97,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(97,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(98,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(98,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(125,51): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(130,51): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(133,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(133,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(208,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(208,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(228,94): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(228,67): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(229,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(229,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(233,102): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(233,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(234,107): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(234,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  snake.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\snake.cpp(40,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\snake.cpp(52,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\snake.cpp(82,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\snake.cpp(82,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\snake.cpp(85,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\snake.cpp(85,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\snake.cpp(87,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\snake.cpp(87,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  tetris.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tetris.cpp(36,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tetris.cpp(48,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tetris.cpp(70,59): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tetris.cpp(124,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tetris.cpp(135,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tetris.cpp(135,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tetris.cpp(143,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tetris.cpp(143,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  tron.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tron.cpp(37,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tron.cpp(87,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tron.cpp(87,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tron.cpp(88,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tron.cpp(88,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  xonix.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\xonix.cpp(39,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\xonix.cpp(58,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\xonix.cpp(136,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\xonix.cpp(136,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\xonix.cpp(141,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\xonix.cpp(141,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\xonix.cpp(147,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\xonix.cpp(147,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+tetris.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z) referenced in function "int __cdecl tetris(void)" (?tetris@@YAHXZ)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+doodle_jump.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+Laps.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+LeaderBoard.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+tetris.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ) referenced in function "int __cdecl tetris(void)" (?tetris@@YAHXZ)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+doodle_jump.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+Laps.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+LeaderBoard.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z)
+doodle_jump.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z)
+Car.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z)
+tetris.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z) referenced in function "public: __cdecl std::_Container_proxy_ptr12<class std::allocator<struct std::_Container_proxy> >::_Container_proxy_ptr12<class std::allocator<struct std::_Container_proxy> >(class std::allocator<struct std::_Container_proxy> &,struct std::_Container_base12 &)" (??0?$_Container_proxy_ptr12@V?$allocator@U_Container_proxy@std@@@std@@@std@@QEAA@AEAV?$allocator@U_Container_proxy@std@@@1@AEAU_Container_base12@1@@Z)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z)
+doodle_jump.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+doodle_jump.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ)
+doodle_jump.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)
+doodle_jump.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)
+xonix.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::setFramerateLimit(unsigned int)" (__imp_?setFramerateLimit@Window@sf@@QEAAXI@Z) referenced in function "int __cdecl xonix(void)" (?xonix@@YAHXZ)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::setFramerateLimit(unsigned int)" (__imp_?setFramerateLimit@Window@sf@@QEAAXI@Z)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::setFramerateLimit(unsigned int)" (__imp_?setFramerateLimit@Window@sf@@QEAAXI@Z)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::setFramerateLimit(unsigned int)" (__imp_?setFramerateLimit@Window@sf@@QEAAXI@Z)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::setFramerateLimit(unsigned int)" (__imp_?setFramerateLimit@Window@sf@@QEAAXI@Z)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::setFramerateLimit(unsigned int)" (__imp_?setFramerateLimit@Window@sf@@QEAAXI@Z)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::setFramerateLimit(unsigned int)" (__imp_?setFramerateLimit@Window@sf@@QEAAXI@Z)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::setFramerateLimit(unsigned int)" (__imp_?setFramerateLimit@Window@sf@@QEAAXI@Z)
+doodle_jump.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::setFramerateLimit(unsigned int)" (__imp_?setFramerateLimit@Window@sf@@QEAAXI@Z)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ)
+doodle_jump.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+doodle_jump.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+Laps.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+snake.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z) referenced in function "private: void __cdecl std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >::_Construct<1,char const *>(char const * const,unsigned __int64)" (??$_Construct@$00PEBD@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAAXQEBD_K@Z)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+doodle_jump.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+tetris.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ) referenced in function "private: void __cdecl std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >::_Construct<1,char const *>(char const * const,unsigned __int64)" (??$_Construct@$00PEBD@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAAXQEBD_K@Z)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+doodle_jump.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+xonix.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z) referenced in function "int __cdecl xonix(void)" (?xonix@@YAHXZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+doodle_jump.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+snake.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z) referenced in function "void __cdecl std::_Construct_in_place<char *,char * const &>(char * &,char * const &)" (??$_Construct_in_place@PEADAEBQEAD@std@@YAXAEAPEADAEBQEAD@Z)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+LeaderBoard.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+doodle_jump.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+Laps.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+Car.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z)
+doodle_jump.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)
+doodle_jump.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+Car.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+tron.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Texture const &)" (__imp_??0Sprite@sf@@QEAA@AEBVTexture@1@@Z) referenced in function "void __cdecl std::_Construct_in_place<char *,char * const &>(char * &,char * const &)" (??$_Construct_in_place@PEADAEBQEAD@std@@YAXAEAPEADAEBQEAD@Z)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Texture const &)" (__imp_??0Sprite@sf@@QEAA@AEBVTexture@1@@Z)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Texture const &)" (__imp_??0Sprite@sf@@QEAA@AEBVTexture@1@@Z)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Texture const &)" (__imp_??0Sprite@sf@@QEAA@AEBVTexture@1@@Z)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Texture const &)" (__imp_??0Sprite@sf@@QEAA@AEBVTexture@1@@Z)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Texture const &)" (__imp_??0Sprite@sf@@QEAA@AEBVTexture@1@@Z)
+doodle_jump.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Texture const &)" (__imp_??0Sprite@sf@@QEAA@AEBVTexture@1@@Z)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Texture const &)" (__imp_??0Sprite@sf@@QEAA@AEBVTexture@1@@Z)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Texture const &)" (__imp_??0Sprite@sf@@QEAA@AEBVTexture@1@@Z)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Texture const &)" (__imp_??0Sprite@sf@@QEAA@AEBVTexture@1@@Z)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Texture const &)" (__imp_??0Sprite@sf@@QEAA@AEBVTexture@1@@Z)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Texture const &)" (__imp_??0Sprite@sf@@QEAA@AEBVTexture@1@@Z)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Texture const &)" (__imp_??0Sprite@sf@@QEAA@AEBVTexture@1@@Z)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Texture const &)" (__imp_??0Sprite@sf@@QEAA@AEBVTexture@1@@Z)
+tron.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z) referenced in function "void * __cdecl std::_Allocate<16,struct std::_Default_allocate_traits,0>(unsigned __int64)" (??$_Allocate@$0BA@U_Default_allocate_traits@std@@$0A@@std@@YAPEAX_K@Z)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+Car.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+arkanoid.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Sprite::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Sprite@sf@@QEBA?AV?$Rect@M@2@XZ) referenced in function "int __cdecl arkanoid(void)" (?arkanoid@@YAHXZ)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Sprite::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Sprite@sf@@QEBA?AV?$Rect@M@2@XZ)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Sprite::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Sprite@sf@@QEBA?AV?$Rect@M@2@XZ)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Sprite::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Sprite@sf@@QEBA?AV?$Rect@M@2@XZ)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+doodle_jump.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+Car.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+LeaderBoard.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+doodle_jump.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+Laps.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+arkanoid.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+Car.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+asteroids.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setRotation(float)" (__imp_?setRotation@Transformable@sf@@QEAAXM@Z) referenced in function "public: void __cdecl Entity::draw(class sf::RenderWindow &)" (?draw@Entity@@QEAAXAEAVRenderWindow@sf@@@Z)
+Car.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setRotation(float)" (__imp_?setRotation@Transformable@sf@@QEAAXM@Z)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setRotation(float)" (__imp_?setRotation@Transformable@sf@@QEAAXM@Z)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setRotation(float)" (__imp_?setRotation@Transformable@sf@@QEAAXM@Z)
+asteroids.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z) referenced in function "public: __cdecl Animation::Animation(class sf::Texture &,int,int,int,int,int,float)" (??0Animation@@QEAA@AEAVTexture@sf@@HHHHHM@Z)
+Car.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+PowerUps_Nitro.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z) referenced in function "class std::_Vb_iterator<struct std::_Wrap_alloc<class std::allocator<unsigned int> > > __cdecl std::_Copy_backward_unchecked<class std::_Vb_iterator<struct std::_Wrap_alloc<class std::allocator<unsigned int> > >,class std::_Vb_iterator<struct std::_Wrap_alloc<class std::allocator<unsigned int> > > >(class std::_Vb_iterator<struct std::_Wrap_alloc<class std::allocator<unsigned int> > >,class std::_Vb_iterator<struct std::_Wrap_alloc<class std::allocator<unsigned int> > >,class std::_Vb_iterator<struct std::_Wrap_alloc<class std::allocator<unsigned int> > >)" (??$_Copy_backward_unchecked@V?$_Vb_iterator@U?$_Wrap_alloc@V?$allocator@I@std@@@std@@@std@@V12@@std@@YA?AV?$_Vb_iterator@U?$_Wrap_alloc@V?$allocator@I@std@@@std@@@0@V10@00@Z)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
+Laps.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
+asteroids.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::CircleShape::CircleShape(float,unsigned __int64)" (__imp_??0CircleShape@sf@@QEAA@M_K@Z) referenced in function "public: void __cdecl Entity::draw(class sf::RenderWindow &)" (?draw@Entity@@QEAAXAEAVRenderWindow@sf@@@Z)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::CircleShape::CircleShape(float,unsigned __int64)" (__imp_??0CircleShape@sf@@QEAA@M_K@Z)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::CircleShape::CircleShape(float,unsigned __int64)" (__imp_??0CircleShape@sf@@QEAA@M_K@Z)
+asteroids.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::CircleShape::~CircleShape(void)" (__imp_??1CircleShape@sf@@UEAA@XZ) referenced in function "public: void __cdecl Entity::draw(class sf::RenderWindow &)" (?draw@Entity@@QEAAXAEAVRenderWindow@sf@@@Z)
+Laps.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::CircleShape::~CircleShape(void)" (__imp_??1CircleShape@sf@@UEAA@XZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::CircleShape::~CircleShape(void)" (__imp_??1CircleShape@sf@@UEAA@XZ)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::CircleShape::~CircleShape(void)" (__imp_??1CircleShape@sf@@UEAA@XZ)
+asteroids.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Texture::setSmooth(bool)" (__imp_?setSmooth@Texture@sf@@QEAAX_N@Z) referenced in function "int __cdecl asteroids(void)" (?asteroids@@YAHXZ)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Texture::setSmooth(bool)" (__imp_?setSmooth@Texture@sf@@QEAAX_N@Z)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Texture::setSmooth(bool)" (__imp_?setSmooth@Texture@sf@@QEAAX_N@Z)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Texture::setSmooth(bool)" (__imp_?setSmooth@Texture@sf@@QEAAX_N@Z)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)
+asteroids.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)
+asteroids.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Sprite & __cdecl sf::Sprite::operator=(class sf::Sprite const &)" (__imp_??4Sprite@sf@@QEAAAEAV01@AEBV01@@Z) referenced in function "public: class Animation & __cdecl Animation::operator=(class Animation const &)" (??4Animation@@QEAAAEAV0@AEBV0@@Z)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Sprite & __cdecl sf::Sprite::operator=(class sf::Sprite const &)" (__imp_??4Sprite@sf@@QEAAAEAV01@AEBV01@@Z)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Vector2<int> __cdecl sf::Mouse::getPosition(class sf::Window const &)" (__imp_?getPosition@Mouse@sf@@SA?AV?$Vector2@H@2@AEBVWindow@2@@Z)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Vector2<int> __cdecl sf::Mouse::getPosition(class sf::Window const &)" (__imp_?getPosition@Mouse@sf@@SA?AV?$Vector2@H@2@AEBVWindow@2@@Z)
+bejeweled.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Vector2<int> __cdecl sf::Mouse::getPosition(class sf::Window const &)" (__imp_?getPosition@Mouse@sf@@SA?AV?$Vector2@H@2@AEBVWindow@2@@Z)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Vector2<int> __cdecl sf::Mouse::getPosition(class sf::Window const &)" (__imp_?getPosition@Mouse@sf@@SA?AV?$Vector2@H@2@AEBVWindow@2@@Z)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Vector2<int> __cdecl sf::Mouse::getPosition(class sf::Window const &)" (__imp_?getPosition@Mouse@sf@@SA?AV?$Vector2@H@2@AEBVWindow@2@@Z)
+mahjong.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Vector2<int> __cdecl sf::Mouse::getPosition(class sf::Window const &)" (__imp_?getPosition@Mouse@sf@@SA?AV?$Vector2@H@2@AEBVWindow@2@@Z)
+bejeweled.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setColor(class sf::Color const &)" (__imp_?setColor@Sprite@sf@@QEAAXAEBVColor@2@@Z) referenced in function "int __cdecl bejeweled(void)" (?bejeweled@@YAHXZ)
+Car.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setColor(class sf::Color const &)" (__imp_?setColor@Sprite@sf@@QEAAXAEBVColor@2@@Z)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+Car.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+chess.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+Laps.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+LeaderBoard.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite const &)" (__imp_??0Sprite@sf@@QEAA@AEBV01@@Z)
+Car.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite const &)" (__imp_??0Sprite@sf@@QEAA@AEBV01@@Z)
+outrun.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite const &)" (__imp_??0Sprite@sf@@QEAA@AEBV01@@Z)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite const &)" (__imp_??0Sprite@sf@@QEAA@AEBV01@@Z)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite const &)" (__imp_??0Sprite@sf@@QEAA@AEBV01@@Z)
+chess.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ) referenced in function "int __cdecl chess(void)" (?chess@@YAHXZ)
+chess.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(class sf::Vector2<float> const &)" (__imp_?move@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z) referenced in function "int __cdecl chess(void)" (?chess@@YAHXZ)
+netwalk.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(class sf::Vector2<float> const &)" (__imp_?move@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
+fifteen_puzzle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
+Laps.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
+LeaderBoard.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
+minesweeper.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
+Laps.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (__imp_??0String@sf@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVlocale@3@@Z) referenced in function "public: void __cdecl Laps::updateText(int,int)" (?updateText@Laps@@QEAAXHH@Z)
+LeaderBoard.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (__imp_??0String@sf@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVlocale@3@@Z)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (__imp_??0String@sf@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVlocale@3@@Z)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (__imp_??0String@sf@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVlocale@3@@Z)
+Laps.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setOutlineColor(class sf::Color const &)" (__imp_?setOutlineColor@Shape@sf@@QEAAXAEBVColor@2@@Z) referenced in function "public: __cdecl Laps::Laps(void)" (??0Laps@@QEAA@XZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setOutlineColor(class sf::Color const &)" (__imp_?setOutlineColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
+Laps.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setOutlineThickness(float)" (__imp_?setOutlineThickness@Shape@sf@@QEAAXM@Z) referenced in function "public: __cdecl Laps::Laps(void)" (??0Laps@@QEAA@XZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setOutlineThickness(float)" (__imp_?setOutlineThickness@Shape@sf@@QEAAXM@Z)
+Laps.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::CircleShape::setRadius(float)" (__imp_?setRadius@CircleShape@sf@@QEAAXM@Z) referenced in function "public: __cdecl Laps::Laps(void)" (??0Laps@@QEAA@XZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::CircleShape::setRadius(float)" (__imp_?setRadius@CircleShape@sf@@QEAAXM@Z)
+Laps.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::CircleShape::`default constructor closure'(void)" (__imp_??_FCircleShape@sf@@QEAAXXZ) referenced in function "public: __cdecl Laps::Laps(void)" (??0Laps@@QEAA@XZ)
+Laps.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Font::Font(void)" (__imp_??0Font@sf@@QEAA@XZ) referenced in function "public: __cdecl Laps::Laps(void)" (??0Laps@@QEAA@XZ)
+LeaderBoard.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Font::Font(void)" (__imp_??0Font@sf@@QEAA@XZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Font::Font(void)" (__imp_??0Font@sf@@QEAA@XZ)
+Laps.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Font::~Font(void)" (__imp_??1Font@sf@@QEAA@XZ) referenced in function "int `public: __cdecl Laps::Laps(void)'::`1'::dtor$2" (?dtor$2@?0???0Laps@@QEAA@XZ@4HA)
+LeaderBoard.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Font::~Font(void)" (__imp_??1Font@sf@@QEAA@XZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Font::~Font(void)" (__imp_??1Font@sf@@QEAA@XZ)
+Laps.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function "public: void __cdecl Laps::textSetUp(void)" (?textSetUp@Laps@@QEAAXXZ)
+LeaderBoard.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Laps.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Text::Text(void)" (__imp_??0Text@sf@@QEAA@XZ) referenced in function "public: __cdecl Laps::Laps(void)" (??0Laps@@QEAA@XZ)
+LeaderBoard.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Text::Text(void)" (__imp_??0Text@sf@@QEAA@XZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Text::Text(void)" (__imp_??0Text@sf@@QEAA@XZ)
+Laps.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QEAAXAEBVString@2@@Z) referenced in function "public: void __cdecl Laps::textSetUp(void)" (?textSetUp@Laps@@QEAAXXZ)
+LeaderBoard.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QEAAXAEBVString@2@@Z)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QEAAXAEBVString@2@@Z)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QEAAXAEBVString@2@@Z)
+Laps.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setFont(class sf::Font const &)" (__imp_?setFont@Text@sf@@QEAAXAEBVFont@2@@Z) referenced in function "public: void __cdecl Laps::textSetUp(void)" (?textSetUp@Laps@@QEAAXXZ)
+LeaderBoard.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setFont(class sf::Font const &)" (__imp_?setFont@Text@sf@@QEAAXAEBVFont@2@@Z)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setFont(class sf::Font const &)" (__imp_?setFont@Text@sf@@QEAAXAEBVFont@2@@Z)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setFont(class sf::Font const &)" (__imp_?setFont@Text@sf@@QEAAXAEBVFont@2@@Z)
+Laps.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QEAAXI@Z) referenced in function "public: void __cdecl Laps::textSetUp(void)" (?textSetUp@Laps@@QEAAXXZ)
+LeaderBoard.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QEAAXI@Z)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QEAAXI@Z)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QEAAXI@Z)
+Laps.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Text@sf@@QEAAXAEBVColor@2@@Z) referenced in function "public: void __cdecl Laps::textSetUp(void)" (?textSetUp@Laps@@QEAAXXZ)
+LeaderBoard.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Text@sf@@QEAAXAEBVColor@2@@Z)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Text@sf@@QEAAXAEBVColor@2@@Z)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Text@sf@@QEAAXAEBVColor@2@@Z)
+Laps.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setOutlineColor(class sf::Color const &)" (__imp_?setOutlineColor@Text@sf@@QEAAXAEBVColor@2@@Z) referenced in function "public: void __cdecl Laps::textSetUp(void)" (?textSetUp@Laps@@QEAAXXZ)
+LeaderBoard.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setOutlineColor(class sf::Color const &)" (__imp_?setOutlineColor@Text@sf@@QEAAXAEBVColor@2@@Z)
+Laps.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setOutlineThickness(float)" (__imp_?setOutlineThickness@Text@sf@@QEAAXM@Z) referenced in function "public: void __cdecl Laps::textSetUp(void)" (?textSetUp@Laps@@QEAAXXZ)
+LeaderBoard.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setOutlineThickness(float)" (__imp_?setOutlineThickness@Text@sf@@QEAAXM@Z)
+Laps.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Text::~Text(void)" (__imp_??1Text@sf@@UEAA@XZ) referenced in function "int `public: __cdecl Laps::Laps(void)'::`1'::dtor$1" (?dtor$1@?0???0Laps@@QEAA@XZ@4HA)
+LeaderBoard.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Text::~Text(void)" (__imp_??1Text@sf@@UEAA@XZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Text::~Text(void)" (__imp_??1Text@sf@@UEAA@XZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Black" (__imp_?Black@Color@sf@@2V12@B)
+Laps.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Black" (__imp_?Black@Color@sf@@2V12@B)
+LeaderBoard.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Black" (__imp_?Black@Color@sf@@2V12@B)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Black" (__imp_?Black@Color@sf@@2V12@B)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Black" (__imp_?Black@Color@sf@@2V12@B)
+Laps.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Red" (__imp_?Red@Color@sf@@2V12@B) referenced in function "public: __cdecl Laps::Laps(void)" (??0Laps@@QEAA@XZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Red" (__imp_?Red@Color@sf@@2V12@B)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Red" (__imp_?Red@Color@sf@@2V12@B)
+Laps.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Green" (__imp_?Green@Color@sf@@2V12@B) referenced in function "public: __cdecl Laps::Laps(void)" (??0Laps@@QEAA@XZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Green" (__imp_?Green@Color@sf@@2V12@B)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Green" (__imp_?Green@Color@sf@@2V12@B)
+Laps.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Blue" (__imp_?Blue@Color@sf@@2V12@B) referenced in function "public: __cdecl Laps::Laps(void)" (??0Laps@@QEAA@XZ)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Blue" (__imp_?Blue@Color@sf@@2V12@B)
+outrun.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QEAAXMM@Z) referenced in function "public: void __cdecl Line::drawSprite(class sf::RenderWindow &)" (?drawSprite@Line@@QEAAXAEAVRenderWindow@sf@@@Z)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QEAAXMM@Z)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QEAAXMM@Z)
+outrun.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::ConvexShape::ConvexShape(unsigned __int64)" (__imp_??0ConvexShape@sf@@QEAA@_K@Z) referenced in function "void __cdecl drawQuad(class sf::RenderWindow &,class sf::Color,int,int,int,int,int,int)" (?drawQuad@@YAXAEAVRenderWindow@sf@@VColor@2@HHHHHH@Z)
+outrun.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::ConvexShape::setPoint(unsigned __int64,class sf::Vector2<float> const &)" (__imp_?setPoint@ConvexShape@sf@@QEAAX_KAEBV?$Vector2@M@2@@Z) referenced in function "void __cdecl drawQuad(class sf::RenderWindow &,class sf::Color,int,int,int,int,int,int)" (?drawQuad@@YAXAEAVRenderWindow@sf@@VColor@2@HHHHHH@Z)
+outrun.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::ConvexShape::~ConvexShape(void)" (__imp_??1ConvexShape@sf@@UEAA@XZ) referenced in function "void __cdecl drawQuad(class sf::RenderWindow &,class sf::Color,int,int,int,int,int,int)" (?drawQuad@@YAXAEAVRenderWindow@sf@@VColor@2@HHHHHH@Z)
+outrun.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Texture::setRepeated(bool)" (__imp_?setRepeated@Texture@sf@@QEAAX_N@Z) referenced in function "int __cdecl outrun(void)" (?outrun@@YAHXZ)
+outrun.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Rect<int> const & __cdecl sf::Sprite::getTextureRect(void)const " (__imp_?getTextureRect@Sprite@sf@@QEBAAEBV?$Rect@H@2@XZ) referenced in function "public: void __cdecl Line::drawSprite(class sf::RenderWindow &)" (?drawSprite@Line@@QEAAXAEAVRenderWindow@sf@@@Z)
+outrun.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite &&)" (__imp_??0Sprite@sf@@QEAA@$$QEAV01@@Z) referenced in function "public: __cdecl Line::Line(struct Line &&)" (??0Line@@QEAA@$$QEAU0@@Z)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite &&)" (__imp_??0Sprite@sf@@QEAA@$$QEAV01@@Z)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite &&)" (__imp_??0Sprite@sf@@QEAA@$$QEAV01@@Z)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite &&)" (__imp_??0Sprite@sf@@QEAA@$$QEAV01@@Z)
+PowerUps_Stain.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ) referenced in function "public: void __cdecl PowerUps_Stain::update(float,float,class std::vector<class newCar,class std::allocator<class newCar> > &,class sf::Event &)" (?update@PowerUps_Stain@@QEAAXMMAEAV?$vector@VnewCar@@V?$allocator@VnewCar@@@std@@@std@@AEAVEvent@sf@@@Z)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)
+PowerUps_Stain.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::getElapsedTime(void)const " (__imp_?getElapsedTime@Clock@sf@@QEBA?AVTime@2@XZ) referenced in function "public: void __cdecl PowerUps_Stain::update(float,float,class std::vector<class newCar,class std::allocator<class newCar> > &,class sf::Event &)" (?update@PowerUps_Stain@@QEAAXMMAEAV?$vector@VnewCar@@V?$allocator@VnewCar@@@std@@@std@@AEAVEvent@sf@@@Z)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::getElapsedTime(void)const " (__imp_?getElapsedTime@Clock@sf@@QEBA?AVTime@2@XZ)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::getElapsedTime(void)const " (__imp_?getElapsedTime@Clock@sf@@QEBA?AVTime@2@XZ)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::getElapsedTime(void)const " (__imp_?getElapsedTime@Clock@sf@@QEBA?AVTime@2@XZ)
+PowerUps_Stain.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::restart(void)" (__imp_?restart@Clock@sf@@QEAA?AVTime@2@XZ) referenced in function "public: void __cdecl PowerUps_Stain::update(float,float,class std::vector<class newCar,class std::allocator<class newCar> > &,class sf::Event &)" (?update@PowerUps_Stain@@QEAAXMMAEAV?$vector@VnewCar@@V?$allocator@VnewCar@@@std@@@std@@AEAVEvent@sf@@@Z)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::restart(void)" (__imp_?restart@Clock@sf@@QEAA?AVTime@2@XZ)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::restart(void)" (__imp_?restart@Clock@sf@@QEAA?AVTime@2@XZ)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::restart(void)" (__imp_?restart@Clock@sf@@QEAA?AVTime@2@XZ)
+PowerUps_Stain.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (__imp_?setSize@RectangleShape@sf@@QEAAXAEBV?$Vector2@M@2@@Z) referenced in function "public: void __cdecl PowerUps_Stain::init(void)" (?init@PowerUps_Stain@@QEAAXXZ)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (__imp_?setSize@RectangleShape@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+racing.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (__imp_?setSize@RectangleShape@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+PowerUps_Stain.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+PowerUps_Nitro.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+racing.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Clock::Clock(void)" (__imp_??0Clock@sf@@QEAA@XZ) referenced in function "public: __cdecl PowerUps_Stain::PowerUps_Stain(void)" (??0PowerUps_Stain@@QEAA@XZ)
+snake.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Clock::Clock(void)" (__imp_??0Clock@sf@@QEAA@XZ)
+tetris.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Clock::Clock(void)" (__imp_??0Clock@sf@@QEAA@XZ)
+xonix.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Clock::Clock(void)" (__imp_??0Clock@sf@@QEAA@XZ)
+racing.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::scale(float,float)" (__imp_?scale@Transformable@sf@@QEAAXMM@Z) referenced in function "int __cdecl racing(void)" (?racing@@YAHXZ)
+racing.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Color::Color(void)" (__imp_??0Color@sf@@QEAA@XZ) referenced in function "void __cdecl __builtin_array_init_helper<class sf::Color>(class sf::Color *,unsigned __int64)" (??$__builtin_array_init_helper@VColor@sf@@@@YAXPEAVColor@sf@@_K@Z)
+tron.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Color::Color(void)" (__imp_??0Color@sf@@QEAA@XZ)
+racing.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Shape::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Shape@sf@@QEBA?AV?$Rect@M@2@XZ) referenced in function "void __cdecl checkIfOnTrack(int,int)" (?checkIfOnTrack@@YAXHH@Z)
+racing.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QEAA@AEBV?$Vector2@M@1@@Z) referenced in function "public: __cdecl PowerUps_Nitro::PowerUps_Nitro(void)" (??0PowerUps_Nitro@@QEAA@XZ)
+racing.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UEAA@XZ) referenced in function "int `public: __cdecl PowerUps_Nitro::PowerUps_Nitro(void)'::`1'::dtor$3" (?dtor$3@?0???0PowerUps_Nitro@@QEAA@XZ@4HA)
+racing.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Magenta" (__imp_?Magenta@Color@sf@@2V12@B) referenced in function "int __cdecl racing(void)" (?racing@@YAHXZ)
+tron.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderTexture::RenderTexture(void)" (__imp_??0RenderTexture@sf@@QEAA@XZ) referenced in function "int __cdecl tron(void)" (?tron@@YAHXZ)
+tron.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderTexture::~RenderTexture(void)" (__imp_??1RenderTexture@sf@@UEAA@XZ) referenced in function "int __cdecl tron(void)" (?tron@@YAHXZ)
+tron.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::RenderTexture::create(unsigned int,unsigned int,struct sf::ContextSettings const &)" (__imp_?create@RenderTexture@sf@@QEAA_NIIAEBUContextSettings@2@@Z) referenced in function "int __cdecl tron(void)" (?tron@@YAHXZ)
+tron.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTexture::setSmooth(bool)" (__imp_?setSmooth@RenderTexture@sf@@QEAAX_N@Z) referenced in function "int __cdecl tron(void)" (?tron@@YAHXZ)
+tron.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTexture::display(void)" (__imp_?display@RenderTexture@sf@@QEAAXXZ) referenced in function "int __cdecl tron(void)" (?tron@@YAHXZ)
+tron.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const & __cdecl sf::RenderTexture::getTexture(void)const " (__imp_?getTexture@RenderTexture@sf@@QEBAAEBVTexture@2@XZ) referenced in function "int __cdecl tron(void)" (?tron@@YAHXZ)
+xonix.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::rotate(float)" (__imp_?rotate@Transformable@sf@@QEAAXM@Z) referenced in function "int __cdecl xonix(void)" (?xonix@@YAHXZ)
+C:\SFML-2.5.1\lib\sfml-graphics-s-d.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\SFML-2.5.1\lib\sfml-audio-s-d.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\SFML-2.5.1\lib\sfml-system-s-d.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\SFML-2.5.1\lib\sfml-window-s-d.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\SFML-2.5.1\lib\sfml-network-s-d.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\SFML-2.5.1\lib\freetype.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\x64\Debug\16_SFML_Games.exe : fatal error LNK1120: 86 unresolved externals

@@ -1,0 +1,334 @@
+﻿  16_SFML_Games.cpp
+  arkanoid.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\arkanoid.cpp(7,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\arkanoid.cpp(28,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\arkanoid.cpp(28,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\arkanoid.cpp(60,74): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  asteroids.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(29,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(29,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(66,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(66,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(68,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(95,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(96,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(147,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(148,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(150,1): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(151,1): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(179,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(199,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(200,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(201,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(212,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(233,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(233,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(254,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(254,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(263,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(263,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(263,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(275,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(275,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\asteroids.cpp(296,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  bejeweled.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\bejeweled.cpp(25,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\bejeweled.cpp(154,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\bejeweled.cpp(154,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\bejeweled.cpp(155,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\bejeweled.cpp(155,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Car.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(67,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(68,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(69,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\Car.cpp(29,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\Car.cpp(30,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  carController.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(67,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(68,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(69,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(87,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(91,26): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(139,43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(139,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(146,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(147,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(148,34): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(149,34): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(151,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(152,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.cpp(174,26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  chess.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(34,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(34,21): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(66,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(66,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(70,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(79,19): warning C4114: same type qualifier used more than once
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(119,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(119,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(131,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(131,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(132,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\chess.cpp(132,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  doodle_jump.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\doodle_jump.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\doodle_jump.cpp(45,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\doodle_jump.cpp(46,8): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\doodle_jump.cpp(53,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\doodle_jump.cpp(61,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\doodle_jump.cpp(61,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\doodle_jump.cpp(67,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\doodle_jump.cpp(67,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  fifteen_puzzle.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\fifteen_puzzle.cpp(56,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\fifteen_puzzle.cpp(56,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\fifteen_puzzle.cpp(59,42): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\fifteen_puzzle.cpp(73,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\fifteen_puzzle.cpp(73,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Laps.cpp
+  lap_logic.cpp
+  LeaderBoard.cpp
+  mahjong.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\mahjong.cpp(28,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\mahjong.cpp(38,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\mahjong.cpp(38,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\mahjong.cpp(101,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\mahjong.cpp(102,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  minesweeper.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\minesweeper.cpp(7,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\minesweeper.cpp(67,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\minesweeper.cpp(67,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  netwalk.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\netwalk.cpp(26,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\netwalk.cpp(89,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\netwalk.cpp(167,64): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\netwalk.cpp(171,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\netwalk.cpp(171,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\netwalk.cpp(177,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\netwalk.cpp(177,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  outrun.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(8,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(14,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(14,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(15,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(15,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(16,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(16,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(17,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(17,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(57,37): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(91,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(94,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(98,48): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(99,48): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(100,48): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(102,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(123,60): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(124,59): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(138,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(149,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(153,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(155,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(163,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(163,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(164,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(164,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(164,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(164,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(164,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(164,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(165,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(165,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(165,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(165,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(165,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\outrun.cpp(165,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  PowerUps_Stain.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(67,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(68,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(69,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\PowerUps_Stain.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\PowerUps_Stain.cpp(114,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\PowerUps_Stain.cpp(119,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\PowerUps_Stain.cpp(121,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\PowerUps_Stain.cpp(139,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\PowerUps_Stain.cpp(148,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\PowerUps_Stain.cpp(156,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\PowerUps_Stain.cpp(161,20): warning C4018: '<': signed/unsigned mismatch
+  PowerUps_Nitro.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(67,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(68,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(69,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\PowerUps_Nitro.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\PowerUps_Nitro.cpp(101,20): warning C4018: '<': signed/unsigned mismatch
+  racing.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(67,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(68,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\carController.h(69,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(49,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(50,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(51,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(97,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(97,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(98,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(98,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(125,51): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(130,51): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(133,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(133,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(208,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(208,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(228,94): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(228,67): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(229,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(229,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(233,102): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(233,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(234,107): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\racing.cpp(234,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  snake.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\snake.cpp(40,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\snake.cpp(52,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\snake.cpp(82,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\snake.cpp(82,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\snake.cpp(85,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\snake.cpp(85,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\snake.cpp(87,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\snake.cpp(87,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  tetris.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tetris.cpp(36,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tetris.cpp(48,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tetris.cpp(70,59): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tetris.cpp(124,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tetris.cpp(135,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tetris.cpp(135,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tetris.cpp(143,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tetris.cpp(143,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  tron.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tron.cpp(37,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tron.cpp(87,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tron.cpp(87,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tron.cpp(88,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\tron.cpp(88,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  xonix.cpp
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\xonix.cpp(39,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\xonix.cpp(58,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\xonix.cpp(136,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\xonix.cpp(136,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\xonix.cpp(141,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\xonix.cpp(141,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\xonix.cpp(147,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\xonix.cpp(147,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  16_SFML_Games.vcxproj -> C:\Users\jboyc\OneDrive\Desktop\keep\Ken Semesger\Master\16_SFML_Games\Debug\16_SFML_Games.exe
